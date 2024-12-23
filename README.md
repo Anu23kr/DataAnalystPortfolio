@@ -8,8 +8,7 @@ Hi there! I'm **Anagha**, an aspiring Data Analyst with a strong passion for tur
 - 💻 **Skills**:  
   - **Data Analytics**: Python, SQL, Power BI, Excel, Tableau.  
   - **Programming**: Python (Data Manipulation & Visualization).  
-  - **Tools and Libraries**: Matplotlib, Seaborn, Pandas, NumPy, SQL Server.  
-  - **Core Competencies**: Statistics, Probability, Problem-Solving, Data Automation.  
+  - **Tools and Libraries**: Matplotlib, Seaborn, Pandas, NumPy, SQL Server. 
 ---
 
 ## 🌟 Projects
@@ -73,8 +72,7 @@ In this project, I analyzed hotel booking data to identify trends and factors in
 ---
 
 ## 💼 Connect with Me
-- **LinkedIn**: [Anagha's LinkedIn Profile](#)  
-- **GitHub**: [Anagha's GitHub Profile](#)  
+- **LinkedIn**: www.linkedin.com/in/anagha-k-r-b87aba212
 
 ---
 
